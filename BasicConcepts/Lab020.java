@@ -1,6 +1,4 @@
-package src;
-
-import org.w3c.dom.ls.LSOutput;
+package BasicConcepts;
 
 public class Lab020 {
     public static void main(String[] args) {

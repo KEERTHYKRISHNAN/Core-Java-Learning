@@ -1,4 +1,4 @@
-package src;
+package BasicConcepts;
 
 public class Lab012 {
     //character examples
