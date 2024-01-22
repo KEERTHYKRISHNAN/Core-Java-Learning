@@ -27,5 +27,5 @@ public class Lab061 {
         }else {
             System.out.println("your score is --> F");
         }
-    }
+     }
 }
