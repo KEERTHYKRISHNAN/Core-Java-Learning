@@ -30,8 +30,10 @@ public class Lab066 {
         if ((side1 == side2) || (side2 == side3) || (side3 == side4) || (side4 == side1)) {
             System.out.println("Only 2 sides are equal");
         }
-        if ((side1 == side2) != (side2 == side3) != (side3 == side4) != (side4 == side1)) {
-            System.out.println("Its not an square - its a Scalene");
+        //if ((side1 == side2) != (side2 == side3) != (side3 == side4) != (side4 == side1)) {
+         //   System.out.println("Its not an square - its a Scalene");
+            if ((side1 != side2) && (side2 != side3) && (side3 != side4) && (side4 != side1)) {
+                System.out.println("Its not an square - its a Scalene");
         }
     }
 }
