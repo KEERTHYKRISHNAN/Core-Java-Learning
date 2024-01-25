@@ -9,6 +9,7 @@ public class lab070 {
 
         char ch = 'A';
                 switch (ch){}
+        //valid switch statement
 
         float f = 30.15f;
                 switch ((int)f){}
