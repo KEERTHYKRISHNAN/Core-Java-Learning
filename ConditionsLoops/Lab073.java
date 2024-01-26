@@ -1,6 +1,6 @@
 package ConditionsLoops;
 
-public class lab073 {
+public class Lab073 {
     //simple Exercise
     //using -> instead break statement
 

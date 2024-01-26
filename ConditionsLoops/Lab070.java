@@ -1,6 +1,6 @@
 package ConditionsLoops;
 
-public class lab070 {
+public class Lab070 {
     //simple Exercise
     public static void main(String[] args) {
          int a = 303;
