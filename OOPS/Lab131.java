@@ -11,6 +11,7 @@ public class Lab131 {
     }
 
     static void print (String a){
+
         System.out.println(a);
     }
 }
