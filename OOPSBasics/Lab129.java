@@ -1,4 +1,4 @@
-package OOPS;
+package OOPSBasics;
 
 public class Lab129 {
     public static void main(String[] args) {

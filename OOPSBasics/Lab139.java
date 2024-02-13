@@ -1,6 +1,4 @@
-package OOPS;
-
-import java.sql.SQLOutput;
+package OOPSBasics;
 
 public class Lab139 {
     public static void main(String[] args) {
