@@ -10,22 +10,22 @@ public class Lab147Person {
        // new person - Real object
 
 
-        Person p = new Person();
-        p.name = "Keerthy";
-        System.out.println(p.name);
-
-        p.age = 27;
-        System.out.println(p.age);
-
-        p.email = "keerthy31@gmail.com";
-        System.out.println(p.email);
-
-        Person p2 =  new Person();
-        p2.name = "Keerthy";
-        System.out.println(p2.name);
-
-        new Person();
-        Person p3 = null;
+//        Person p = new Person();
+//        p.name = "Keerthy";
+//        System.out.println(p.name);
+//
+//        p.age = 27;
+//        System.out.println(p.age);
+//
+//        p.email = "keerthy31@gmail.com";
+//        System.out.println(p.email);
+//
+//        Person p2 =  new Person();
+//        p2.name = "Keerthy";
+//        System.out.println(p2.name);
+//
+//        new Person();
+//        Person p3 = null;
 
     }
 }
