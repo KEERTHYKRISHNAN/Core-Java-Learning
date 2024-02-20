@@ -1,4 +1,4 @@
-package OOPSConcept.Inheritance;
+package OOPSConcept.SingleInheritance;
 
 public class Java extends Programing {
     String features;

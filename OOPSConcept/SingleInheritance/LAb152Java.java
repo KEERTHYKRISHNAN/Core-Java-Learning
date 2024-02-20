@@ -1,4 +1,4 @@
-package OOPSConcept.Inheritance;
+package OOPSConcept.SingleInheritance;
 
 public class LAb152Java {
     public static void main(String[] args) {
