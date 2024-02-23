@@ -12,15 +12,16 @@ public class StaticKeyword {
 
     //StaticMethod
 
-    public static void printinfo(){
+    public static void printinfo() {
         System.out.println("name is " + Collegename);
         //You cant have instance variable in static method
     }
 
     //Non Static Method
-    public void printinfo1(){
+    public void printinfo1() {
         System.out.println("name is " + Collegename);
         System.out.println("Version is " + version);
 
     }
 
+}
