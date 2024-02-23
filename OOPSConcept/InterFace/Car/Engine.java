@@ -1,4 +1,4 @@
-package OOPSConcept.Abstraction.InterFace.Car;
+package OOPSConcept.InterFace.Car;
 
 public interface Engine {
     void startengine();

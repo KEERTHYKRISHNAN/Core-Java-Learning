@@ -1,6 +1,4 @@
-package OOPSConcept.Abstraction.InterFace.Car;
-
-import OOPSConcept.HierarchicalInheritance.Car;
+package OOPSConcept.InterFace.Car;
 
 public class CarRun extends CarClass {
     public static void main(String[] args) {

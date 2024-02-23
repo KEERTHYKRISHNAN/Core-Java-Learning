@@ -1,4 +1,4 @@
-package OOPSConcept.Abstraction.InterFace;
+package OOPSConcept.InterFace;
 
 public class son implements Father {
 

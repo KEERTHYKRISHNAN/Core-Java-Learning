@@ -1,4 +1,4 @@
-package OOPSConcept.Abstraction.InterFace;
+package OOPSConcept.InterFace;
 
 interface Father {
     void loan1k();
