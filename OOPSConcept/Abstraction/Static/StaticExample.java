@@ -1,4 +1,4 @@
-package OOPSConcept;
+package OOPSConcept.Abstraction.Static;
 
 public class StaticExample {
     public static void main(String[] args) {
